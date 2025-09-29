@@ -30,6 +30,7 @@
 💖 [频道别名收集计划](https://github.com/Guovin/iptv-api/discussions/1082)
 
 输出结果txt：https://raw.githubusercontent.com/freedjx/iptv/master/output/user_result.txt
+
 输出结果m3u8：https://raw.githubusercontent.com/freedjx/iptv/master/output/user_result.m3u8
 
 - [✅ 核心特性](#核心特性)
